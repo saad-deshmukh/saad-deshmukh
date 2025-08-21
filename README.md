@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br>👋 Hi, I'm Saad! A passionate full-stack developer skilled in MERN stack, building scalable web applications and solving data structures & algorithms problems.<br><br>🔭 Currently working on: A twitter Clone using MERN stack<br>🎯 Exploring: Cloud Computing, DevOps & AI-based projects<br>💡 Interested in: Web development, Blockchain, and AI/ML<br>🏆 Competitive Programmer: Active on GeeksforGeeks<br>💬 Ask me about: JavaScript, React, Node.js, DSA & Problem Solving<br>📫 Reach me at: deshmukhsaad13@gmail.com
+🚀 About Me<br>👋 Hi, I'm Saad! A passionate full-stack developer skilled in MERN stack, building scalable web applications and solving data structures & algorithms problems.<br><br>🔭 Currently working on: A Typing test website using MERN stack<br>🎯 Exploring: DevOps & AI & ML-based projects<br>💡 Interested in: Web development and AI/ML<br>🏆 Competitive Programmer: Active on GeeksforGeeks & Leetcode<br>💬 Ask me about: JavaScript, React, Node.js, DSA & Problem Solving<br>📫 Reach me at: deshmukhsaad13@gmail.com
 
 
 ## 🌐 Socials:
